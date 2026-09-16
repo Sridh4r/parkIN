@@ -1,0 +1,5 @@
+:root { --ink: #26221e; --muted: #8c837b; --coral: #e8664c; --line: #e7e0d8; --paper: #fbfaf7; --body: 'Trebuchet MS', sans-serif; --display: Georgia, serif; font: 16px/1.45 var(--body); color: var(--muted); background: var(--paper); font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--coral); outline-offset: 3px; }
