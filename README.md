@@ -10,15 +10,20 @@ The idea is simple:
 
 Parking-space owners can add their available parking spots, while users can view available parking spots and find one based on their city.
 
+
+
 ## ✨ Current Features
 
 ### Parking Provider
+![img_2.png](img_2.png)
 
 * Add a parking space
 * Update parking-space details
 * Delete a parking space
 
 ### Parking User
+
+![img_1.png](img_1.png)
 
 * View available parking spaces
 * Search parking spaces by city
